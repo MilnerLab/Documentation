@@ -32,7 +32,7 @@ This section should give the guideline on how to set up your computer to work an
 - read the python requirements for the project ([Phase_Stabilization](./Repos/Phase_Stabilization/General%20Information.md##python), [Lab_Apps](./Repos/Lab_Apps/General%20Information.md##python))
 
 ### 4. Cloning the Repositories
-- clone the repositories either by using [git commands](./General/Git%20and%20GitHub/Setup.md##-3.-clone-a-repository-to-your-computer) or recommended directly in [VS Code](./General/Visual%20Studio%20Code/Working%20with%20VS%20Code.md#clone-a-github-repository-directly-in-vs-code)
+- clone the repositories either by using [git commands](./General/Git%20and%20GitHub/Setup.md##3-clone-a-repository-to-your-computer) or recommended directly in [VS Code](./General/Visual%20Studio%20Code/Working%20with%20VS%20Code.md#clone-a-github-repository-directly-in-vs-code)
 - read the dependency requirements for the project ([Phase_Stabilization](./Repos/Phase_Stabilization/General%20Information.md#dependencies), [Lab_Apps](./Repos/Lab_Apps/General%20Information.md#dependencies))
 
 ### 5. Setting up the Environment

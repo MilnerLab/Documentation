@@ -15,6 +15,8 @@ This repository is intended to cover documentation for all the python projects i
 - [Phase_Stabilization](./Repos/Phase_Stabilization/General%20Information.md)
 - [Base_Lib](./Repos/Base_Lib/General%20Information.md)
 
+If you want to know more about the project setup click [here](./Repos/Overview.md).
+
 ---
 
 ## Getting Things Set Up

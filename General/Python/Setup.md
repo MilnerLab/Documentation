@@ -1,7 +1,7 @@
 
 # Installing Python
 
-This guide explains how to install **Python 3** on Windows so that you can run it from PowerShell using the `py` launcher (e.g. `py -3 script.py`).
+This guide explains how to install **Python 3** globally on Windows so that you can run it from PowerShell using the `py` launcher (e.g. `py -3 script.py`).
 
 ---
 
